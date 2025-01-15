@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/anishgarg11/react-api-fetch-project.git
+anishpokemon.netlify.app
 Navigate to the project directory:
 bash
 Copy code
